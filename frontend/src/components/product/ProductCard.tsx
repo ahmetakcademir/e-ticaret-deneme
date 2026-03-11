@@ -41,7 +41,8 @@ export default function ProductCard({ id, name, price, discountedPrice, imageUrl
             name,
             price: discountedPrice ?? price,
             quantity: 1,
-            imageUrl: validImageUrl
+            imageUrl: validImageUrl,
+            stockQuantity: 99 // Default dummy stock for frontend carts so type matches
         });
 
         setIsAdded(true);
