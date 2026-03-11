@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeniyorumButigi.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ded454dab05b667419b562f51557e090e2ea81")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeniyorumButigi.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeniyorumButigi.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

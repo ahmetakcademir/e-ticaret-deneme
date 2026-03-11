@@ -149,3 +149,4 @@ C:\Users\ahmet\OneDrive\Desktop\coding\web\deneme.butiğim web sayfası\Deniyoru
 C:\Users\ahmet\OneDrive\Desktop\coding\web\deneme.butiğim web sayfası\DeniyorumButigi\DeniyorumButigi.Api\bin\Debug\net8.0\Iyzipay.dll
 C:\Users\ahmet\OneDrive\Desktop\coding\web\deneme.butiğim web sayfası\DeniyorumButigi\DeniyorumButigi.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ahmet\OneDrive\Desktop\coding\web\deneme.butiğim web sayfası\DeniyorumButigi\DeniyorumButigi.Api\bin\Debug\net8.0\DeniyorumButigi.Api.staticwebassets.runtime.json
+C:\Users\ahmet\OneDrive\Desktop\coding\web\deneme.butiğim web sayfası\DeniyorumButigi\DeniyorumButigi.Api\obj\Debug\net8.0\DeniyorumButigi.Api.sourcelink.json

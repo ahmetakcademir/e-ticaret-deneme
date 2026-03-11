@@ -13,6 +13,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.8",
           "System.IdentityModel.Tokens.Jwt": "7.1.2"
         },
         "runtime": {
@@ -581,6 +582,31 @@
           }
         }
       },
+      "Npgsql/8.0.4": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.dll": {
+            "assemblyVersion": "8.0.4.0",
+            "fileVersion": "8.0.4.0"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/8.0.8": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.8",
+          "Npgsql": "8.0.4"
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "assemblyVersion": "8.0.8.0",
+            "fileVersion": "8.0.8.0"
+          }
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.6": {
         "dependencies": {
           "SQLitePCLRaw.lib.e_sqlite3": "2.1.6",
@@ -1115,6 +1141,20 @@
       "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
       "path": "newtonsoft.json/13.0.2",
       "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+    },
+    "Npgsql/8.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vaYEUlF/pB9m8bs21wQv3Da0kMHT4A9USe47VfY/L2BO97xz5KfIxhEu22QS9d68ZrLxvtL3wQDfDLPr2OjbjA==",
+      "path": "npgsql/8.0.4",
+      "hashPath": "npgsql.8.0.4.nupkg.sha512"
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/8.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D5WWJZJTgZYUmGv66BARXbTlinp2a5f5RueJqGYoHuWJw02J0i2va/RA+8N4A5hLORK5YKMRqXhFWtKsZdrksw==",
+      "path": "npgsql.entityframeworkcore.postgresql/8.0.8",
+      "hashPath": "npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.sha512"
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.6": {
       "type": "package",
