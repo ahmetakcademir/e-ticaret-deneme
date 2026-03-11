@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmet\\OneDrive\\Desktop\\coding\\web\\deneme.butiğim web sayfası\\DeniyorumButigi\\DeniyorumButigi.Api\\wwwroot\\images\\products\\1a4c99b6-9e81-44f8-b790-aba54b5acec9_test.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1a4c99b6-9e81-44f8-b790-aba54b5acec9_test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmet\\OneDrive\\Desktop\\coding\\web\\deneme.butiğim web sayfası\\DeniyorumButigi\\DeniyorumButigi.Api\\wwwroot\\images\\products\\6414a379-2e0c-48c0-9459-8e1ffa6f5683_Ekran görüntüsü 2025-10-25 062344.png",
+      "PackagePath": "staticwebassets\\images\\products\\6414a379-2e0c-48c0-9459-8e1ffa6f5683_Ekran görüntüsü 2025-10-25 062344.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmet\\OneDrive\\Desktop\\coding\\web\\deneme.butiğim web sayfası\\DeniyorumButigi\\DeniyorumButigi.Api\\wwwroot\\images\\products\\67668358-fddb-4d68-bb52-38e1649b7373_Ekran görüntüsü 2025-10-25 062317.png",
+      "PackagePath": "staticwebassets\\images\\products\\67668358-fddb-4d68-bb52-38e1649b7373_Ekran görüntüsü 2025-10-25 062317.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmet\\OneDrive\\Desktop\\coding\\web\\deneme.butiğim web sayfası\\DeniyorumButigi\\DeniyorumButigi.Api\\wwwroot\\images\\products\\8bf89373-65be-499d-ac83-24d51a84fe1f_test.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8bf89373-65be-499d-ac83-24d51a84fe1f_test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmet\\OneDrive\\Desktop\\coding\\web\\deneme.butiğim web sayfası\\DeniyorumButigi\\DeniyorumButigi.Api\\wwwroot\\images\\products\\e3916a40-9a72-4489-98eb-4be80af9a111_Ekran görüntüsü 2025-10-27 133728.png",
+      "PackagePath": "staticwebassets\\images\\products\\e3916a40-9a72-4489-98eb-4be80af9a111_Ekran görüntüsü 2025-10-27 133728.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DeniyorumButigi.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DeniyorumButigi.Api.props",
+      "PackagePath": "build\\DeniyorumButigi.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DeniyorumButigi.Api.props",
+      "PackagePath": "buildMultiTargeting\\DeniyorumButigi.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DeniyorumButigi.Api.props",
+      "PackagePath": "buildTransitive\\DeniyorumButigi.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

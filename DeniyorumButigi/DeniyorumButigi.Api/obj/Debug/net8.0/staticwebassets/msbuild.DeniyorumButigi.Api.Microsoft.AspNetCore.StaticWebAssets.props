@@ -1,0 +1,84 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\1a4c99b6-9e81-44f8-b790-aba54b5acec9_test.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>DeniyorumButigi.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DeniyorumButigi.Api</BasePath>
+      <RelativePath>images/products/1a4c99b6-9e81-44f8-b790-aba54b5acec9_test.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\1a4c99b6-9e81-44f8-b790-aba54b5acec9_test.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\6414a379-2e0c-48c0-9459-8e1ffa6f5683_Ekran görüntüsü 2025-10-25 062344.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>DeniyorumButigi.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DeniyorumButigi.Api</BasePath>
+      <RelativePath>images/products/6414a379-2e0c-48c0-9459-8e1ffa6f5683_Ekran görüntüsü 2025-10-25 062344.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\6414a379-2e0c-48c0-9459-8e1ffa6f5683_Ekran görüntüsü 2025-10-25 062344.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\67668358-fddb-4d68-bb52-38e1649b7373_Ekran görüntüsü 2025-10-25 062317.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>DeniyorumButigi.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DeniyorumButigi.Api</BasePath>
+      <RelativePath>images/products/67668358-fddb-4d68-bb52-38e1649b7373_Ekran görüntüsü 2025-10-25 062317.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\67668358-fddb-4d68-bb52-38e1649b7373_Ekran görüntüsü 2025-10-25 062317.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\8bf89373-65be-499d-ac83-24d51a84fe1f_test.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>DeniyorumButigi.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DeniyorumButigi.Api</BasePath>
+      <RelativePath>images/products/8bf89373-65be-499d-ac83-24d51a84fe1f_test.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\8bf89373-65be-499d-ac83-24d51a84fe1f_test.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\e3916a40-9a72-4489-98eb-4be80af9a111_Ekran görüntüsü 2025-10-27 133728.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>DeniyorumButigi.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DeniyorumButigi.Api</BasePath>
+      <RelativePath>images/products/e3916a40-9a72-4489-98eb-4be80af9a111_Ekran görüntüsü 2025-10-27 133728.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\e3916a40-9a72-4489-98eb-4be80af9a111_Ekran görüntüsü 2025-10-27 133728.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
